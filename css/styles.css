@@ -50,25 +50,25 @@ h3{
   }
 .bottom{
     position: absolute;
-    left: 380px;
-    bottom: 100px;
+    left: 23.75rem;
+    bottom: 6.25rem;
   }
 
 .bottom-2{
   position:absolute;
-  right: 400px;
-  top: 400px;
+  right: 25rem;
+  top: 25rem;
 }  
 .top{
     position: absolute;
-    right: 310px;
-    top: 200px;
+    right: 19.375rem;
+    top: 12.5rem;
     
   }
 .top-2{
   position: absolute;
-  left: 300px;
-  top: 280px;
+  left: 18.75rem;
+  top: 17.5rem;
 }  
 .skills{
   width: 50%;
